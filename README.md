@@ -1,4 +1,4 @@
 # desafioitaucarros
 desafio
 
-o projeto esta com configurações padrões , a parte dos testes unitários esta funcionando
+Java 17 com Junit e spring Boot
